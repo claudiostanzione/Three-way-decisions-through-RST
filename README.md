@@ -19,11 +19,16 @@ Hints:
   
   • The 3WD package must be generic (it provides Three-Way Decisions on any Decision Table
   organized as a CSV file.
+  
   • The Main Script can be specific for the dataset you have selected.
+  
   • The “sequential” part of the work can be implemented in the Main Script by writing a
   specialized function.
+  
   Python tools
+  
   • You can use Pandas, NumPy and other Python libraries you consider effective to achieve the
   goal.
+  
   • Use Spyder (in the Anaconda package) to write the program. You must create a Spyder
   Project.
