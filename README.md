@@ -1,5 +1,6 @@
 # Three-way-decisions-through-RST
 Exam master's degree
+
 Requests:
   1. Implement a Python package (3WD package) containing all the functions needed to execute
   the Three-Way Decisions approach (based on Probabilistic Rough Sets) on Decision Tables
@@ -11,6 +12,7 @@ Requests:
   dataset by using the defined method.
   5. Write a document describing all the previous steps (also the parameter values) and discuss the
   analysis results showing their usefulness and how a decision maker tries benefits from them.
+
 Hints
   • Step 2 and step 3 are very important.
   • The 3WD package must be generic (it provides Three-Way Decisions on any Decision Table
