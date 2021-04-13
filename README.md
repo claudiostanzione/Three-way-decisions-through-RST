@@ -13,7 +13,7 @@ Requests:
   5. Write a document describing all the previous steps (also the parameter values) and discuss the
   analysis results showing their usefulness and how a decision maker tries benefits from them.
 
-Hints
+Hints:
   • Step 2 and step 3 are very important.
   • The 3WD package must be generic (it provides Three-Way Decisions on any Decision Table
   organized as a CSV file.
