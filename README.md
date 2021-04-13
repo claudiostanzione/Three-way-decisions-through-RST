@@ -14,7 +14,9 @@ Requests:
   analysis results showing their usefulness and how a decision maker tries benefits from them.
 
 Hints:
+
   • Step 2 and step 3 are very important.
+  
   • The 3WD package must be generic (it provides Three-Way Decisions on any Decision Table
   organized as a CSV file.
   • The Main Script can be specific for the dataset you have selected.
